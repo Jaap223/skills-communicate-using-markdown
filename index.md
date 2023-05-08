@@ -13,3 +13,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] task1
 - [x] Task2
 - [ ] Task3
+
+- [ ] Klikken
+- [ ] Uitschakelen
+- [ ] Schakelstroom uit
