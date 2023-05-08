@@ -51,6 +51,8 @@ GitHub is about more than code. It’s a platform for software collaboration, an
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+    
+  
 </details>
 
 <!--
