@@ -2,6 +2,6 @@
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 
+![image](https://user-images.githubusercontent.com/79212575/236812152-a5f3e870-dcf5-4540-8e5b-6dc987ae0fa6.png)
 
-![Image of a tree](https://user-images.githubusercontent.com/79212575/236812039-cdf34e8a-4a1e-47ec-82fc-11caded68a0d.png
 
